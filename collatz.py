@@ -38,6 +38,7 @@ while not isPos:
         # is supplied) then check if the integer is positive
         if n > 0:
             # start the iterative processing of the number provided
+            originalNumber=n
             while n>1:
                 # provide feedback to the user
                 print("The current value being processed= ",n)
@@ -61,3 +62,5 @@ while not isPos:
         print("You can only enter a positive integer")
         print() # print an empty line for ease of reading
 print(".. and finally we reached ",n, " after ", iCount, " iterations!")
+print()
+print("Therefore, the Collatz Conjecture is true for the positive integer", originalNumber)
