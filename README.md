@@ -15,3 +15,6 @@ If n is even then divide by 2
 If n is odd then multiply by 3 and then add 1
 
 Currently this Conjecture has not been proven for all positive integers.
+
+## Instructions
+Running the code in this repository requires that you have Visual Studio Code (or other Python code writing software) installed on your machine. This software is available from [here](https://code.vidsualstudio.com/download)
