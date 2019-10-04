@@ -35,9 +35,23 @@ Entering the command
 ``` 
 python collatz.py 
 ``` 
-in your CLI and hitting _ _ Enter _ _ will return the following:
+in your CLI and hitting *Enter* will return the following:
 
 ![Run program](https://github.com/Seamie_irl/Collatz/tree/master/images/3.jpg "Screen grab on run")
+
+From here you must enter a positive integer (i.e. a whole number greater than or equal to 1).
+
+If you don't enter a whole number you'll get the following response:
+
+![Not a whole number error response](https://github.com/Seamie_irl/Collatz/tree/master/images/4.jpg)
+
+If you enter a negative integer you'll get the following response:
+
+![Negative Integer error response](https://github.com/Seamie_irl/Collatz/tree/master/images/5.jpg)
+
+Otherwise, if you enter a positive integer such as 107, for example, you'll receive the following output:
+
+![Result](https://github.com/Seamie_irl/Collatz/tree/master/images/6.png)
 
 
 
