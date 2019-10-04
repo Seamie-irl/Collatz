@@ -29,7 +29,7 @@ Open your CLI and navigate to the path where you've saved the code then type 'py
 ### collatz.py
 
 On my machine, the Collatz program is saved as follows: 
-![alt text][SS1]
+![alt text](https://github.com/Seamie-irl/Collatz/tree/master/images/1.jpg "Screen shot of directory")
 
 [SS1]: https://github.com/Seamie-irl/Collatz/tree/master/images/1.jpg "Screen shot of directory"
 
