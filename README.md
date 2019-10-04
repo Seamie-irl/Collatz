@@ -57,7 +57,7 @@ Otherwise, if you enter a positive integer such as 107, for example, you'll rece
 
 On my machine, the Collatz2 program is saved as follows:
 
-(todo: screenshot of direcetory with Collatz2)
+![Collatz2](https://github.com/Seamie-irl/Collatz/blob/master/images/9.PNG "Collatz2 Directory screen grab")
 
 However, this program requires the installation of the 'Keyboard' module. To complete this you need a pip-installer along with Python. One example of a pip-installer can be found [here](https://bootstrap.pypa.io/get-pip.py ) but there are others. Installation of the pip-installer is performed through the CLI. When this is open, type 'python' which after a short pause will return something similar to the following:
 
