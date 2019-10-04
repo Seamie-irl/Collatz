@@ -53,5 +53,36 @@ Otherwise, if you enter a positive integer such as 107, for example, you'll rece
 
 ![Result](https://github.com/Seamie-irl/Collatz/blob/master/images/6.PNG "Result")
 
+## collatz2.py
+
+On my machine, the Collatz2 program is saved as follows:
+
+(todo: screenshot of direcetory with Collatz2)
+
+However, this program requires the installation of the 'Keyboard' module. To complete this you need a pip-installer along with Python. One example of a pip-installer can be found [here](https://bootstrap.pypa.io/get-pip.py ) but there are others. Installation of the pip-installer is performed through the CLI. When this is open, type 'python' which after a short pause will return something similar to the following:
+
+![Python screenshot](https://github.com/Seamie-irl/Collatz/blob/master/images/7.PNG "Python screen grab")
+
+From here you navigate to the location of the pip-installer file you downloaded and then type 'python filename' where 'filename' is the name of the pip-installer file. Once this has run, you can test that the installation has been successful by first exiting the Python program by typing
+Ctrl-Z and Enter and then typing 
+```
+pip -V
+```
+ where 'V' is uppercase. This should return an output similar to the following:
+
+![Pip Installed](https://github.com/Seamie-irl/Collatz/blob/master/images/8.PNG "Pip Installer screen grab")
+
+Once you are happy with this you can install the keyboard module by typing 
+
+```
+pip install keyboard
+```
+Once this is complete you can then run the Collatz2 program through the CLI by navigating to the location where the collatz2.py file is located and then typing
+
+```
+python collatz2.py
+```
+
+
 
 
