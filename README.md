@@ -29,7 +29,7 @@ Open your CLI and navigate to the path where you've saved the code then type 'py
 ### collatz.py
 
 On my machine, the Collatz program is saved as follows: 
-![Directory Screen Grab](https://github.com/Seamie-irl/Collatz/tree/master/images/1.jpg "Screen shot of directory")
+![Directory Screen Grab](https://github.com/Seamie-irl/Collatz/blob/master/images/1.jpg "Screen shot of directory")
 
 Entering the command
 ``` 
@@ -37,21 +37,21 @@ python collatz.py
 ``` 
 in your CLI and hitting *Enter* will return the following:
 
-![Run program](https://github.com/Seamie_irl/Collatz/tree/master/images/3.jpg "Screen grab on run")
+![Run program](https://github.com/Seamie_irl/Collatz/blob/master/images/3.jpg "Screen grab on run")
 
 From here you must enter a positive integer (i.e. a whole number greater than or equal to 1).
 
 If you don't enter a whole number you'll get the following response:
 
-![Not a whole number error response](https://github.com/Seamie_irl/Collatz/tree/master/images/4.jpg "Whole number error")
+![Not a whole number error response](https://github.com/Seamie_irl/Collatz/blob/master/images/4.jpg "Whole number error")
 
 If you enter a negative integer you'll get the following response:
 
-![Negative Integer error response](https://github.com/Seamie_irl/Collatz/tree/master/images/5.JPG "Negative Integer Error")
+![Negative Integer error response](https://github.com/Seamie_irl/Collatz/blob/master/images/5.JPG "Negative Integer Error")
 
 Otherwise, if you enter a positive integer such as 107, for example, you'll receive the following output:
 
-![Result](https://github.com/Seamie_irl/Collatz/tree/master/images/6.PNG "Result")
+![Result](https://github.com/Seamie_irl/Collatz/blob/master/images/6.PNG "Result")
 
 
 
