@@ -43,15 +43,15 @@ From here you must enter a positive integer (i.e. a whole number greater than or
 
 If you don't enter a whole number you'll get the following response:
 
-![Not a whole number error response](https://github.com/Seamie_irl/Collatz/tree/master/images/4.jpg)
+![Not a whole number error response](https://github.com/Seamie_irl/Collatz/tree/master/images/4.jpg "Whole number error")
 
 If you enter a negative integer you'll get the following response:
 
-![Negative Integer error response](https://github.com/Seamie_irl/Collatz/tree/master/images/5.JPG)
+![Negative Integer error response](https://github.com/Seamie_irl/Collatz/tree/master/images/5.JPG "Negative Integer Error")
 
 Otherwise, if you enter a positive integer such as 107, for example, you'll receive the following output:
 
-![Result](https://github.com/Seamie_irl/Collatz/tree/master/images/6.PNG)
+![Result](https://github.com/Seamie_irl/Collatz/tree/master/images/6.PNG "Result")
 
 
 
