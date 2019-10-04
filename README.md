@@ -25,3 +25,9 @@ To run this software, download the python code into a folder on your machine not
 
 Open your CLI and navigate to the path where you've saved the code then type 'python filename' where filname is the name of the python code file (e.g. collatz.py)
 
+## Sample outputs
+### collatz.py
+
+On my machine, the Collatz program is saved as follows:
+![alt text](https://github.com/Seamie-irl/Collatz/images/1.jpg "Screen shot of directory")
+
