@@ -35,7 +35,7 @@ Entering the command
 ``` 
 python collatz.py 
 ``` 
-in your CLI and hitting * * Enter * * will return the following:
+in your CLI and hitting _ _ Enter _ _ will return the following:
 
 ![Run program](https://github.com/Seamie_irl/Collatz/tree/master/images/3.jpg "Screen grab on run")
 
