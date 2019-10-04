@@ -17,4 +17,11 @@ If n is odd then multiply by 3 and then add 1
 Currently this Conjecture has not been proven for all positive integers.
 
 ## Instructions
-Running the code in this repository requires that you have Visual Studio Code (or other Python code writing software) installed on your machine. This software is available from [here](https://code.vidsualstudio.com/download)
+Running the code in this repository requires that you have Visual Studio Code (or other Python code writing software) installed on your machine. This software is available from [here](https://code.vidsualstudio.com/download).
+
+In addition, a Command Line Interface (CLI) tool such as CMDer is necessary to call the program code. This software can be located [here](https://cmder.net).
+
+To run this software, download the python code into a folder on your machine noting the path where you've saved this code.
+
+Open your CLI and navigate to the path where you've saved the code then type 'python filename' where filname is the name of the python code file (e.g. collatz.py)
+
