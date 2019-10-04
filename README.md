@@ -47,11 +47,11 @@ If you don't enter a whole number you'll get the following response:
 
 If you enter a negative integer you'll get the following response:
 
-![Negative Integer error response](https://github.com/Seamie_irl/Collatz/tree/master/images/5.jpg)
+![Negative Integer error response](https://github.com/Seamie_irl/Collatz/tree/master/images/5.JPG)
 
 Otherwise, if you enter a positive integer such as 107, for example, you'll receive the following output:
 
-![Result](https://github.com/Seamie_irl/Collatz/tree/master/images/6.png)
+![Result](https://github.com/Seamie_irl/Collatz/tree/master/images/6.PNG)
 
 
 
