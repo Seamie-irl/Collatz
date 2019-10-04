@@ -9,6 +9,11 @@
 # is added. This process is reiterated with the iteration only
 # ending if the resultant number equals 1
 
+import os # to expose the method for clearing the screen
+os.system('cls')
+
+# This clears the screen
+
 # First ask the user for a positive integer
 # Create a loop to repeat the question if the input isn't
 # a positive integer
