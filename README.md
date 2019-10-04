@@ -32,5 +32,8 @@ On my machine, the Collatz program is saved as follows:
 ![Directory Screen Grab](https://github.com/Seamie-irl/Collatz/tree/master/images/1.jpg "Screen shot of directory")
 
 Entering the command
-''' python collatz.py ''' and hitting <Enter> will return the following:
+``` 
+python collatz.py 
+``` 
+and hitting <Enter> will return the following:
 
